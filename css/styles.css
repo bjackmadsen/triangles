@@ -1,0 +1,17 @@
+#result {
+  display: none;
+  font-size: 36px;
+  color: green;
+}
+#error {
+  display: none;
+  font-size: 36px;
+  color: red;
+}
+#alpha {
+  display: none;
+  font-size: 36px;
+}
+.jumbotron {
+	background-color: #A9F5F2;
+}
